@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "dbd28b7a51ca9826",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f154cc47dee4c3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+            "mode": "source"
+          }
+        },
+        "group": "e5303bb6d5c3bfbc"
+      },
+      {
+        "id": "b62020d13196eb59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+            "mode": "source"
+          }
+        },
+        "group": "e5303bb6d5c3bfbc"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a8a1e0b0ee65508",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6663b516aa6daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c09a6daa74a0c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6bc281114588949",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "/顧問.*懲戒/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e5e7c9c3345b6d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "aad0e029c301cb24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df195f445655d597",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40e935eb20399328",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+    "告発に至る経緯・鬼滅の刃と，弁護士列車編.pdf",
+    "daily/2020-11-21.md",
+    "daily/2020-11-17.md",
+    "daily/2020-11-18.md",
+    "daily/2020-11-19.md",
+    "tweets/2020-11-19_143207_泥濘大魔王サイケ（@k_sawmen）のTwitter：2020-11-13_142632～2020-11-19_125518.md",
+    "2020-11-18_164131_なべきょう＠過眠症（@wata_nabekyo_ko）.md",
+    "2020-11-18_165032_なべきょう＠過眠症（@wata_nabekyo_ko）.md",
+    "2020-11-18_164218_なべきょう＠過眠症（@wata_nabekyo_ko）.md"
+  ]
+}

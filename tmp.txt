@@ -1,0 +1,654 @@
+<div style="font-size: 8pt; color: #FF0040; margin-bottom: 25px;">
+<script type='text/javascript'>
+    document.write("-&nbsp;" + document.title + " " + location.href + "");
+</script><br />
+</div>
+<div style='font-size: 10pt;'>REGEXP（サーチ）： "少年"　該当：66件　取得ツイートの投稿日時の範囲：（2020-11-04 01:38〜2021-09-23 09:33）<br /><br />
+
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN '1017-01-01' AND '3000-01-01' AND (user LIKE "chosakukenho") AND  tweet REGEXP "少年"  ORDER BY tw_date ASC<br /><br />
+
+</div><script>
+
+//戻る
+function modoru(){
+  history.back();
+}
+
+//進む
+function susumu(){
+  history.forward();
+}
+
+</script>
+<a name="chosakukenho"></a><form><input type="button"  value="戻る" onclick="modoru()" style="width:45px; height:20px; background-color: #248; color: #fff; border-style: none;"> <input type="button"  value="進む" onclick="susumu()" style="width:45px; height:20px; background-color: #248; color: #fff; border-style: none;"></form>===========================================================<br />
+<span style="background-color: #eeeeee;color: #cc0000;">小倉秀夫（chosakukenho）のプロフィール情報（2021年10月17日09時10分51秒頃の取得）：</span><br />
+-----------------------------------------------------------<br />
+[name]ユーザ名称：小倉秀夫<br />
+<br />
+[screen_name]ユーザ名：chosakukenho<br />
+<br />
+位置情報：<br />
+<br />
+ユーザ説明：<br />
+第一法規から出版される「著作権法コンメンタール（第２版）」用のアカウントです。著作権に関すること、エンタメに関すること、著作権法コンメンタールの執筆者に関することを呟いていきます。なお、本人はペギっ子です。
+https://t.co/Gi07ynmvGv<br />
+<br />
+ユーザのフォロワー数：2594<br />
+<br />
+ユーザのフォロー数：129<br />
+<br />
+ユーザがTwitterに登録した日時：2020-09-23 06:05:46 UTC<br />
+<br />
+ユーザの投稿ツイート数：14463<br />
+<br />
+===========================================================<br />
+<br />
+<script>
+
+//戻る
+function modoru(){
+  history.back();
+}
+
+//進む
+function susumu(){
+  history.forward();
+}
+
+</script>
+<span style="background-color: #eeeeee;color: #cc0000;">ページ内リンク一覧</span><br />===========================================================<br /><div style='margin-bottom: 40px; margin-left:30px;'><a href="#p1" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  1</pre>件目</a>　<a href="#p2" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  2</pre>件目</a>　<a href="#p3" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  3</pre>件目</a>　<a href="#p4" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  4</pre>件目</a>　<a href="#p5" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  5</pre>件目</a>　<a href="#p6" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  6</pre>件目</a>　<a href="#p7" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  7</pre>件目</a>　<a href="#p8" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  8</pre>件目</a>　<a href="#p9" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  9</pre>件目</a>　<a href="#p10" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 10</pre>件目</a>　<br /><a href="#p11" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 11</pre>件目</a>　<a href="#p12" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 12</pre>件目</a>　<a href="#p13" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 13</pre>件目</a>　<a href="#p14" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 14</pre>件目</a>　<a href="#p15" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 15</pre>件目</a>　<a href="#p16" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 16</pre>件目</a>　<a href="#p17" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 17</pre>件目</a>　<a href="#p18" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 18</pre>件目</a>　<a href="#p19" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 19</pre>件目</a>　<a href="#p20" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 20</pre>件目</a>　<br /><a href="#p21" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 21</pre>件目</a>　<a href="#p22" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 22</pre>件目</a>　<a href="#p23" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 23</pre>件目</a>　<a href="#p24" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 24</pre>件目</a>　<a href="#p25" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 25</pre>件目</a>　<a href="#p26" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 26</pre>件目</a>　<a href="#p27" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 27</pre>件目</a>　<a href="#p28" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 28</pre>件目</a>　<a href="#p29" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 29</pre>件目</a>　<a href="#p30" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 30</pre>件目</a>　<br /><a href="#p31" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 31</pre>件目</a>　<a href="#p32" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 32</pre>件目</a>　<a href="#p33" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 33</pre>件目</a>　<a href="#p34" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 34</pre>件目</a>　<a href="#p35" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 35</pre>件目</a>　<a href="#p36" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 36</pre>件目</a>　<a href="#p37" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 37</pre>件目</a>　<a href="#p38" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 38</pre>件目</a>　<a href="#p39" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 39</pre>件目</a>　<a href="#p40" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 40</pre>件目</a>　<br /><a href="#p41" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 41</pre>件目</a>　<a href="#p42" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 42</pre>件目</a>　<a href="#p43" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 43</pre>件目</a>　<a href="#p44" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 44</pre>件目</a>　<a href="#p45" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 45</pre>件目</a>　<a href="#p46" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 46</pre>件目</a>　<a href="#p47" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 47</pre>件目</a>　<a href="#p48" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 48</pre>件目</a>　<a href="#p49" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 49</pre>件目</a>　<a href="#p50" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 50</pre>件目</a>　<br /><a href="#p51" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 51</pre>件目</a>　<a href="#p52" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 52</pre>件目</a>　<a href="#p53" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 53</pre>件目</a>　<a href="#p54" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 54</pre>件目</a>　<a href="#p55" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 55</pre>件目</a>　<a href="#p56" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 56</pre>件目</a>　<a href="#p57" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 57</pre>件目</a>　<a href="#p58" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 58</pre>件目</a>　<a href="#p59" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 59</pre>件目</a>　<a href="#p60" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 60</pre>件目</a>　<br /><a href="#p61" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 61</pre>件目</a>　<a href="#p62" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 62</pre>件目</a>　<a href="#p63" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 63</pre>件目</a>　<a href="#p64" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 64</pre>件目</a>　<a href="#p65" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 65</pre>件目</a>　<a href="#p66" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 66</pre>件目</a>　</div>===========================================================<br />
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2021-03-31_令和3年3月31日付け　告発状.pdf - Google ドライブ <a href="https://t.co/2bukX1dO6a">https://t.co/2bukX1dO6a</a> <br>　昨日の3月31日（1ページと506ページから779ページ）と本日4月1日（2ページから505ページ，能都郵便局から郵送しました。金沢市大手町615号，金沢地方検察庁です。</p>&mdash; 奉納＼さらば弁護士鉄道・泥棒神社の物語 (@hirono_hideki) <a href="https://twitter.com/hirono_hideki/status/1377567816644141057?ref_src=twsrc%5Etfw">April 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p1");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p1" style="color: red;">&nbsp;1件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（01／66） TW chosakukenho（小倉秀夫） 日時：2020-11-04 01:38:00 +0900 URL： https://twitter.com/chosakukenho/status/1323665937157955585
+<br />> 私が学生の時は、青少年保護育成条例上の不純異性交遊規制等を、パターナリズムに基づく不当な規制と考えるのが、リベラル派の基本だったはずなんですよ。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 私が学生の時は、青少年保護育成条例上の不純異性交遊規制等を、パターナリズムに基づく不当な規制と考えるのが、リベラル派の基本だったはずなんですよ。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1323665937157955585">2020-11-04 01:38:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p2");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p2" style="color: red;">&nbsp;2件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（02／66） TW chosakukenho（小倉秀夫） 日時：2020-11-10 02:04:00 +0900 URL： https://twitter.com/chosakukenho/status/1325846821529219072
+<br />> 「性的眼差しを向けるに止まらず、それをわざわざ表明すること」が性的消費にあたるとする見解にたつと、そうなりますね。補導して少年院送りするべきでしょうか。 https://t.co/X2nY0mR52x  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 「性的眼差しを向けるに止まらず、それをわざわざ表明すること」が性的消費にあたるとする見解にたつと、そうなりますね。補導して少年院送りするべきでしょうか。 https://t.co/X2nY0mR52x&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1325846821529219072">2020-11-10 02:04:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p3");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p3" style="color: red;">&nbsp;3件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（03／66） TW chosakukenho（小倉秀夫） 日時：2020-11-12 23:07:00 +0900 URL： https://twitter.com/chosakukenho/status/1326889381219557382
+<br />> 「私にとって不快だ」というだけでゾーニングの対象に持っていこうとするの良くないですよね。18禁とかって、一応青少年にそれを見せることは青少年の健全な発達に有害であるという前提のもとでゾーニングされているわけだし。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 「私にとって不快だ」というだけでゾーニングの対象に持っていこうとするの良くないですよね。18禁とかって、一応青少年にそれを見せることは青少年の健全な発達に有害であるという前提のもとでゾーニングされているわけだし。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1326889381219557382">2020-11-12 23:07:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p4");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p4" style="color: red;">&nbsp;4件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（04／66） TW chosakukenho（小倉秀夫） 日時：2020-11-17 15:58:00 +0900 URL： https://twitter.com/chosakukenho/status/1328593380092358658
+<br />> 日弁連総会の「可及的速やかに、国選付添人制度の対象事件を観護措置決定により少年鑑別所に収容された少年の事件全件にまで拡大するよう少年法を改正し、２０１３年には確実に実施すること。」という決議もアウトですかね。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 日弁連総会の「可及的速やかに、国選付添人制度の対象事件を観護措置決定により少年鑑別所に収容された少年の事件全件にまで拡大するよう少年法を改正し、２０１３年には確実に実施すること。」という決議もアウトですかね。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1328593380092358658">2020-11-17 15:58:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p5");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p5" style="color: red;">&nbsp;5件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（05／66） TW chosakukenho（小倉秀夫） 日時：2020-12-13 06:28:00 +0900 URL： https://twitter.com/chosakukenho/status/1337872022311878656
+<br />> 単に、ご自身の信仰に基づく性嫌悪感情を満たすために、１３歳以上１６歳以下の少年・少女の性的自己決定権を奪い去りたいと言っているだけの話ですね。 https://t.co/pG38UVFZZh  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 単に、ご自身の信仰に基づく性嫌悪感情を満たすために、１３歳以上１６歳以下の少年・少女の性的自己決定権を奪い去りたいと言っているだけの話ですね。 https://t.co/pG38UVFZZh&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1337872022311878656">2020-12-13 06:28:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p6");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p6" style="color: red;">&nbsp;6件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（06／66） TW chosakukenho（小倉秀夫） 日時：2020-12-13 09:11:00 +0900 URL： https://twitter.com/chosakukenho/status/1337912980097310720
+<br />> 金八先生第一シリーズのような、中学生同士の性行為の場合に、男を少年刑務所に送り、女に堕胎を強要することを望むかどうかと言う話ですね。 https://t.co/KOLA8l1djx  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 金八先生第一シリーズのような、中学生同士の性行為の場合に、男を少年刑務所に送り、女に堕胎を強要することを望むかどうかと言う話ですね。 https://t.co/KOLA8l1djx&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1337912980097310720">2020-12-13 09:11:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p7");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p7" style="color: red;">&nbsp;7件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（07／66） TW chosakukenho（小倉秀夫） 日時：2020-12-13 09:18:00 +0900 URL： https://twitter.com/chosakukenho/status/1337914709207498753
+<br />> 中学生くらいになると、ませた子たちは性体験するわけですが、それが見つかるたびごとに男の子を少年刑務所に送り込むのって、まっとうなんですかね。 https://t.co/U055D3XuEw  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 中学生くらいになると、ませた子たちは性体験するわけですが、それが見つかるたびごとに男の子を少年刑務所に送り込むのって、まっとうなんですかね。 https://t.co/U055D3XuEw&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1337914709207498753">2020-12-13 09:18:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p8");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p8" style="color: red;">&nbsp;8件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（08／66） TW chosakukenho（小倉秀夫） 日時：2020-12-13 09:52:00 +0900 URL： https://twitter.com/chosakukenho/status/1337923213586649088
+<br />> 私たちの世代でまともに憲法を勉強してきた人たちは、青少年保護育成条例すら、パターナリズムに基づく不当な人権制限という意識がありますからねえ。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 私たちの世代でまともに憲法を勉強してきた人たちは、青少年保護育成条例すら、パターナリズムに基づく不当な人権制限という意識がありますからねえ。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1337923213586649088">2020-12-13 09:52:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p9");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p9" style="color: red;">&nbsp;9件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（09／66） TW chosakukenho（小倉秀夫） 日時：2020-12-13 11:14:00 +0900 URL： https://twitter.com/chosakukenho/status/1337943879014699008
+<br />> 中学生の性的自己決定権が制約されますね。中学生が同級生や先輩と付き合って性的行為に及ぶと男の側が少年刑務所に送られる制度を作ることによって、無理矢理大学進学率の男女間格差を是正することないと思うんですよ。 https://t.co/NE0CW7kxZK  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 中学生の性的自己決定権が制約されますね。中学生が同級生や先輩と付き合って性的行為に及ぶと男の側が少年刑務所に送られる制度を作ることによって、無理矢理大学進学率の男女間格差を是正することないと思うんですよ。 https://t.co/NE0CW7kxZK&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1337943879014699008">2020-12-13 11:14:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p10");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p10" style="color: red;">&nbsp;10件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（10／66） TW chosakukenho（小倉秀夫） 日時：2020-12-13 13:31:00 +0900 URL： https://twitter.com/chosakukenho/status/1337978457909723137
+<br />> 早熟な子は初体験を済ます年齢ですね。相手の男の子を少年刑務所や少年院に送り込むべきでしょうか。小学校高学年で性教育をする方が、方法として適切なんじゃないでしょうか。 https://t.co/TAK44OenMv  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 早熟な子は初体験を済ます年齢ですね。相手の男の子を少年刑務所や少年院に送り込むべきでしょうか。小学校高学年で性教育をする方が、方法として適切なんじゃないでしょうか。 https://t.co/TAK44OenMv&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1337978457909723137">2020-12-13 13:31:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p11");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p11" style="color: red;">&nbsp;11件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（11／66） TW chosakukenho（小倉秀夫） 日時：2020-12-14 10:54:00 +0900 URL： https://twitter.com/chosakukenho/status/1338301342784229378
+<br />> さらにいえば、青少年保護育成条例は、「何人も」とあって、18歳以上の大人に限定していませんよ。 https://t.co/tEUyCM7ylf  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> さらにいえば、青少年保護育成条例は、「何人も」とあって、18歳以上の大人に限定していませんよ。 https://t.co/tEUyCM7ylf&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1338301342784229378">2020-12-14 10:54:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p12");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p12" style="color: red;">&nbsp;12件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（12／66） TW chosakukenho（小倉秀夫） 日時：2020-12-15 08:03:00 +0900 URL： https://twitter.com/chosakukenho/status/1338620586273083393
+<br />> それなら既にある児童ポルノ法と各自治体の青少年保護育成条例で十分です。基本的には、「おっさん」に対する無限の嫌悪感に突き動かされているだけだとは思います。 https://t.co/kvey7z0UIL  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> それなら既にある児童ポルノ法と各自治体の青少年保護育成条例で十分です。基本的には、「おっさん」に対する無限の嫌悪感に突き動かされているだけだとは思います。 https://t.co/kvey7z0UIL&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1338620586273083393">2020-12-15 08:03:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p13");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p13" style="color: red;">&nbsp;13件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（13／66） TW chosakukenho（小倉秀夫） 日時：2020-12-15 08:37:00 +0900 URL： https://twitter.com/chosakukenho/status/1338629135938142208
+<br />> 悪い大人が少女を搾取するがごとき性行為は、児童ポルノ法と青少年保護育成条例でカバーできていますよ。 https://t.co/VBhmhhmmh8  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 悪い大人が少女を搾取するがごとき性行為は、児童ポルノ法と青少年保護育成条例でカバーできていますよ。 https://t.co/VBhmhhmmh8&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1338629135938142208">2020-12-15 08:37:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p14");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p14" style="color: red;">&nbsp;14件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（14／66） TW chosakukenho（小倉秀夫） 日時：2020-12-16 01:12:00 +0900 URL： https://twitter.com/chosakukenho/status/1338879720864169986
+<br />> この人が想定しているケースは青少年保護育成条例等でほぼ手当済みですね。 https://t.co/VKO1QXCpac  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> この人が想定しているケースは青少年保護育成条例等でほぼ手当済みですね。 https://t.co/VKO1QXCpac&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1338879720864169986">2020-12-16 01:12:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p15");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p15" style="color: red;">&nbsp;15件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（15／66） TW chosakukenho（小倉秀夫） 日時：2020-12-16 09:49:00 +0900 URL： https://twitter.com/chosakukenho/status/1339009835082207232
+<br />> 金八先生第一シリーズは、鶴見慎吾を少年刑務所送りにしておしまいというのが、望ましいストーリーだったということになりますね。 https://t.co/BCnNwJk8Kf  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 金八先生第一シリーズは、鶴見慎吾を少年刑務所送りにしておしまいというのが、望ましいストーリーだったということになりますね。 https://t.co/BCnNwJk8Kf&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339009835082207232">2020-12-16 09:49:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p16");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p16" style="color: red;">&nbsp;16件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（16／66） TW chosakukenho（小倉秀夫） 日時：2020-12-16 10:53:00 +0900 URL： https://twitter.com/chosakukenho/status/1339025822569545730
+<br />> 現行の青少年保護育成条例だって、「みだらな」要件である程度限定しているから、最高裁も合憲判断を下せているんじゃないですかね。憲法学者にはそれでも違憲だという人が少なくないと思いますが。 https://t.co/bCACf437Wg  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 現行の青少年保護育成条例だって、「みだらな」要件である程度限定しているから、最高裁も合憲判断を下せているんじゃないですかね。憲法学者にはそれでも違憲だという人が少なくないと思いますが。 https://t.co/bCACf437Wg&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339025822569545730">2020-12-16 10:53:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p17");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p17" style="color: red;">&nbsp;17件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（17／66） TW chosakukenho（小倉秀夫） 日時：2020-12-17 09:03:00 +0900 URL： https://twitter.com/chosakukenho/status/1339360452816424960
+<br />> 基本的には、リベラル派は、青少年保護育成条例による淫行禁止規定すら、パターナリズムに基づく不当な性的自由の規制だと考えるんですけどね。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 基本的には、リベラル派は、青少年保護育成条例による淫行禁止規定すら、パターナリズムに基づく不当な性的自由の規制だと考えるんですけどね。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339360452816424960">2020-12-17 09:03:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p18");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p18" style="color: red;">&nbsp;18件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（18／66） TW chosakukenho（小倉秀夫） 日時：2020-12-17 22:06:00 +0900 URL： https://twitter.com/chosakukenho/status/1339557667161837568
+<br />> なんでふたりの合意で性交をしたのに、男の子だけ少年刑務所に叩き込まれないといけないんですか？女の子から誘ってきた場合も、男の子だけ少年刑務所に叩き込むのですか。学力で敵わない男の子を追い落とすために、女の子から誘って一回性交をしてそのまま警察に被害届を出すのもありですか。 https://t.co/3VrhOv4X6c  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> なんでふたりの合意で性交をしたのに、男の子だけ少年刑務所に叩き込まれないといけないんですか？女の子から誘ってきた場合も、男の子だけ少年刑務所に叩き込むのですか。学力で敵わない男の子を追い落とすために、女の子から誘って一回性交をしてそのまま警察に被害届を出すのもありですか。 https://t.co/3VrhOv4X6c&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339557667161837568">2020-12-17 22:06:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p19");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p19" style="color: red;">&nbsp;19件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（19／66） TW chosakukenho（小倉秀夫） 日時：2020-12-17 22:26:00 +0900 URL： https://twitter.com/chosakukenho/status/1339562514753810432
+<br />> 一回だけ我慢して、嫌いな奴を誘ってセックスすれば、そいつを少年刑務所に放り込むことができるって、フェミニストにとっては願ったり叶ったりな制度になりそうですね。「セックスした」と被害届を出せばＤＮＡ鑑定なしにそいつを逮捕し、有罪にしてくれるなら、なお言うことなしなんだろうけど。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 一回だけ我慢して、嫌いな奴を誘ってセックスすれば、そいつを少年刑務所に放り込むことができるって、フェミニストにとっては願ったり叶ったりな制度になりそうですね。「セックスした」と被害届を出せばＤＮＡ鑑定なしにそいつを逮捕し、有罪にしてくれるなら、なお言うことなしなんだろうけど。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339562514753810432">2020-12-17 22:26:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p20");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p20" style="color: red;">&nbsp;20件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（20／66） TW chosakukenho（小倉秀夫） 日時：2020-12-18 08:51:00 +0900 URL： https://twitter.com/chosakukenho/status/1339719978061197314
+<br />> １４才以上だと刑事責任を問われるし、少年法は刑事責任を免除するものではないし。 https://t.co/q5FnkKMKus  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> １４才以上だと刑事責任を問われるし、少年法は刑事責任を免除するものではないし。 https://t.co/q5FnkKMKus&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339719978061197314">2020-12-18 08:51:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p21");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p21" style="color: red;">&nbsp;21件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（21／66） TW chosakukenho（小倉秀夫） 日時：2020-12-18 08:58:00 +0900 URL： https://twitter.com/chosakukenho/status/1339721613743251456
+<br />> 少年刑務所なんて幻ですかね。 https://t.co/YaGDT2Ad6o  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 少年刑務所なんて幻ですかね。 https://t.co/YaGDT2Ad6o&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339721613743251456">2020-12-18 08:58:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p22");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p22" style="color: red;">&nbsp;22件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（22／66） TW chosakukenho（小倉秀夫） 日時：2020-12-18 11:29:00 +0900 URL： https://twitter.com/chosakukenho/status/1339759642100916225
+<br />> 日本法の場合、暴行または脅迫による反抗意思の抑圧と同視できるものとして１７７条後段に規定しているのは１３歳未満という枠組みで、青少年保護の観点や児童福祉の観点からの規制は、青少年保護育成条例や児童福祉法で規定していますから、児童福祉の観点から性同意年齢を引き上げるのは筋悪かと。 https://t.co/bbdKlTy7oN  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 日本法の場合、暴行または脅迫による反抗意思の抑圧と同視できるものとして１７７条後段に規定しているのは１３歳未満という枠組みで、青少年保護の観点や児童福祉の観点からの規制は、青少年保護育成条例や児童福祉法で規定していますから、児童福祉の観点から性同意年齢を引き上げるのは筋悪かと。 https://t.co/bbdKlTy7oN&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339759642100916225">2020-12-18 11:29:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p23");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p23" style="color: red;">&nbsp;23件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（23／66） TW chosakukenho（小倉秀夫） 日時：2020-12-18 14:29:00 +0900 URL： https://twitter.com/chosakukenho/status/1339805025330032640
+<br />> 少年に関する話をしているのですが。 https://t.co/Jv5IJLPwb5  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 少年に関する話をしているのですが。 https://t.co/Jv5IJLPwb5&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339805025330032640">2020-12-18 14:29:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p24");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p24" style="color: red;">&nbsp;24件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（24／66） TW chosakukenho（小倉秀夫） 日時：2020-12-18 15:52:00 +0900 URL： https://twitter.com/chosakukenho/status/1339825745657413632
+<br />> 誘惑に乗ってしまったら、強制性交の既遂犯として、少年刑務所に叩き込まれるべきということですね。 https://t.co/GH5C9jklES  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 誘惑に乗ってしまったら、強制性交の既遂犯として、少年刑務所に叩き込まれるべきということですね。 https://t.co/GH5C9jklES&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339825745657413632">2020-12-18 15:52:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p25");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p25" style="color: red;">&nbsp;25件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（25／66） TW chosakukenho（小倉秀夫） 日時：2020-12-18 18:39:00 +0900 URL： https://twitter.com/chosakukenho/status/1339867971318030339
+<br />> 多数の女性学生がそのような行為に出ると入っていないので、数の多寡を持ち出されても困ります。そもそも数でいえば、児童ポルノ法上の買春に当たらず、かつ、青少年保護育成条例中の淫行規制にも抵触せずに大人が少女と性交をするケース自体が希です。 https://t.co/TY9KY9y8yq  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 多数の女性学生がそのような行為に出ると入っていないので、数の多寡を持ち出されても困ります。そもそも数でいえば、児童ポルノ法上の買春に当たらず、かつ、青少年保護育成条例中の淫行規制にも抵触せずに大人が少女と性交をするケース自体が希です。 https://t.co/TY9KY9y8yq&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339867971318030339">2020-12-18 18:39:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p26");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p26" style="color: red;">&nbsp;26件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（26／66） TW chosakukenho（小倉秀夫） 日時：2020-12-18 19:34:00 +0900 URL： https://twitter.com/chosakukenho/status/1339881790257864704
+<br />> 一般の青少年保護育成条例では、淫らな性行為だけが規制の対象です。 https://t.co/Q7KWBfvRja  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 一般の青少年保護育成条例では、淫らな性行為だけが規制の対象です。 https://t.co/Q7KWBfvRja&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1339881790257864704">2020-12-18 19:34:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p27");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p27" style="color: red;">&nbsp;27件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（27／66） TW chosakukenho（小倉秀夫） 日時：2020-12-19 21:36:00 +0900 URL： https://twitter.com/chosakukenho/status/1340274852293271553
+<br />> 10代の女子の保護をどうするのかというのは、強制性交罪に関する規定ではなく、青少年保護育成条例（またはこれを国で統一的に定めた新規立法）でやるべき問題です。 https://t.co/fFheVTwHYG  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 10代の女子の保護をどうするのかというのは、強制性交罪に関する規定ではなく、青少年保護育成条例（またはこれを国で統一的に定めた新規立法）でやるべき問題です。 https://t.co/fFheVTwHYG&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1340274852293271553">2020-12-19 21:36:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p28");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p28" style="color: red;">&nbsp;28件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（28／66） TW chosakukenho（小倉秀夫） 日時：2021-01-06 01:51:00 +0900 URL： https://twitter.com/chosakukenho/status/1346499621422436352
+<br />> リベラリズムは、パターナリズムとも相性が良くないんですよ。同時期に憲法の勉強をしていると思うのでおわかりだと思うのですが、青少年保護育成条例による性的自由の制約すら許されないと考えるのが、本来のリベラルなんですから。 https://t.co/A5fKPJrxZF  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> リベラリズムは、パターナリズムとも相性が良くないんですよ。同時期に憲法の勉強をしていると思うのでおわかりだと思うのですが、青少年保護育成条例による性的自由の制約すら許されないと考えるのが、本来のリベラルなんですから。 https://t.co/A5fKPJrxZF&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1346499621422436352">2021-01-06 01:51:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p29");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p29" style="color: red;">&nbsp;29件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（29／66） TW chosakukenho（小倉秀夫） 日時：2021-02-01 12:12:00 +0900 URL： https://twitter.com/chosakukenho/status/1356078041709989888
+<br />> 私たちが学生の頃は、青少年保護育成条例における淫行条例すら、性的自己決定権を侵害するものという感じだったんですけどね。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 私たちが学生の頃は、青少年保護育成条例における淫行条例すら、性的自己決定権を侵害するものという感じだったんですけどね。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1356078041709989888">2021-02-01 12:12:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p30");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p30" style="color: red;">&nbsp;30件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（30／66） TW chosakukenho（小倉秀夫） 日時：2021-02-23 12:20:00 +0900 URL： https://twitter.com/chosakukenho/status/1364052486282113025
+<br />> そのようにレイティング、ゾーニングがしっかりなされている米国の方が少年犯罪は酷いので、レイティング、ゾーニングに効果があるのかという問題が生じますね。 https://t.co/7oxI6KEamP  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> そのようにレイティング、ゾーニングがしっかりなされている米国の方が少年犯罪は酷いので、レイティング、ゾーニングに効果があるのかという問題が生じますね。 https://t.co/7oxI6KEamP&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1364052486282113025">2021-02-23 12:20:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p31");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p31" style="color: red;">&nbsp;31件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（31／66） TW chosakukenho（小倉秀夫） 日時：2021-04-27 10:10:37 +0900 URL： https://twitter.com/chosakukenho/status/1386850235066904576
+<br />> じっちゃんの名にしかかけない少年もいるらしい。 https://t.co/8ClDcm1AQu  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> じっちゃんの名にしかかけない少年もいるらしい。 https://t.co/8ClDcm1AQu&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1386850235066904576">2021-04-27 10:10:37 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p32");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p32" style="color: red;">&nbsp;32件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（32／66） TW chosakukenho（小倉秀夫） 日時：2021-05-28 08:50:51 +0900 URL： https://twitter.com/chosakukenho/status/1398064186291200001
+<br />> 女子の方が多いのは、家事・家業手伝いと、病気療養中、少年院 ・児童自立支援施設の３要素だけですね。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 女子の方が多いのは、家事・家業手伝いと、病気療養中、少年院 ・児童自立支援施設の３要素だけですね。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1398064186291200001">2021-05-28 08:50:51 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p33");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p33" style="color: red;">&nbsp;33件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（33／66） TW chosakukenho（小倉秀夫） 日時：2021-06-08 08:24:40 +0900 URL： https://twitter.com/chosakukenho/status/1402043865436098561
+<br />> リベラルは当然引き上げ反対ですよ。青少年の性的自己決定権限をパターナリズムの観点から制限するのは憲法１３条に反するって学生時代から学んできているんですから。 https://t.co/gRC3HkgbK4  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> リベラルは当然引き上げ反対ですよ。青少年の性的自己決定権限をパターナリズムの観点から制限するのは憲法１３条に反するって学生時代から学んできているんですから。 https://t.co/gRC3HkgbK4&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1402043865436098561">2021-06-08 08:24:40 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p34");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p34" style="color: red;">&nbsp;34件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（34／66） TW chosakukenho（小倉秀夫） 日時：2021-06-09 00:34:51 +0900 URL： https://twitter.com/chosakukenho/status/1402288019302805511
+<br />> 金八先生第一シリーズは、鶴見慎吾を少年刑務所に送り込み、杉田かおるに堕胎させ、校長と担任を懲戒解雇にして一件落着とするのがよかったでしょうか。 https://t.co/R3k9sflrXo  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 金八先生第一シリーズは、鶴見慎吾を少年刑務所に送り込み、杉田かおるに堕胎させ、校長と担任を懲戒解雇にして一件落着とするのがよかったでしょうか。 https://t.co/R3k9sflrXo&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1402288019302805511">2021-06-09 00:34:51 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p35");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p35" style="color: red;">&nbsp;35件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（35／66） TW chosakukenho（小倉秀夫） 日時：2021-06-10 08:28:26 +0900 URL： https://twitter.com/chosakukenho/status/1402769588027150340
+<br />> 「性交同意年齢引上論者は子供の性的搾取が現実化する面に限って規制」するなら、現行の青少年保護育成条例方式でよいはずですね。性交同意年齢引上げ方式は一律禁止ですね。 https://t.co/cqJyWIW12g  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 「性交同意年齢引上論者は子供の性的搾取が現実化する面に限って規制」するなら、現行の青少年保護育成条例方式でよいはずですね。性交同意年齢引上げ方式は一律禁止ですね。 https://t.co/cqJyWIW12g&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1402769588027150340">2021-06-10 08:28:26 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p36");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p36" style="color: red;">&nbsp;36件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（36／66） TW chosakukenho（小倉秀夫） 日時：2021-06-10 09:29:54 +0900 URL： https://twitter.com/chosakukenho/status/1402785056498716672
+<br />> 少年法は、少年には可塑性があるので、大人たちと別の処遇をすることにしているだけであり、刑事責任能力がある少年が構成要件に該当しかつ違法・有責な行為を行えば犯罪になりますよ。で、１４歳になれば、刑事責任能力、認められてしまいますよ。 https://t.co/bnU7htK3D8  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 少年法は、少年には可塑性があるので、大人たちと別の処遇をすることにしているだけであり、刑事責任能力がある少年が構成要件に該当しかつ違法・有責な行為を行えば犯罪になりますよ。で、１４歳になれば、刑事責任能力、認められてしまいますよ。 https://t.co/bnU7htK3D8&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1402785056498716672">2021-06-10 09:29:54 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p37");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p37" style="color: red;">&nbsp;37件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（37／66） TW chosakukenho（小倉秀夫） 日時：2021-06-11 08:34:24 +0900 URL： https://twitter.com/chosakukenho/status/1403133474874085376
+<br />> 自分の子どもが中学生の分際で同級生の彼女とエッチをしたと言うことで少年刑務所に送られ、ハイティーン時代をそこで過ごした後、社会に放り出される社会を望んでいる大人たちがこんなに多いって、面白いですね。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 自分の子どもが中学生の分際で同級生の彼女とエッチをしたと言うことで少年刑務所に送られ、ハイティーン時代をそこで過ごした後、社会に放り出される社会を望んでいる大人たちがこんなに多いって、面白いですね。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403133474874085376">2021-06-11 08:34:24 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p38");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p38" style="color: red;">&nbsp;38件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（38／66） TW chosakukenho（小倉秀夫） 日時：2021-06-11 08:46:13 +0900 URL： https://twitter.com/chosakukenho/status/1403136449021501444
+<br />> 実際、中学生同士の性交だと、男の子だけが刑務所に送られ、女の子は「被害者」として相手の親からたっぷり示談金をもらえる、という形で運用されるとは思いますよ。両方を少年刑務所に送り込んだら、フラワーデモが起こるんじゃないですかね。 https://t.co/awEO5LL4pK  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 実際、中学生同士の性交だと、男の子だけが刑務所に送られ、女の子は「被害者」として相手の親からたっぷり示談金をもらえる、という形で運用されるとは思いますよ。両方を少年刑務所に送り込んだら、フラワーデモが起こるんじゃないですかね。 https://t.co/awEO5LL4pK&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403136449021501444">2021-06-11 08:46:13 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p39");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p39" style="color: red;">&nbsp;39件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（39／66） TW chosakukenho（小倉秀夫） 日時：2021-06-11 17:36:42 +0900 URL： https://twitter.com/chosakukenho/status/1403269951851425799
+<br />> どのくらいの年代でどのような精神能力を概ね構築できるのかというのは客観的に認識可能なので、それを無視して高い年齢に性的同意年齢を設定して、差分の少年たちの性的自由を制限することが憲法適合的とも思わないんですけどね。 https://t.co/yU8wweCiNL  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> どのくらいの年代でどのような精神能力を概ね構築できるのかというのは客観的に認識可能なので、それを無視して高い年齢に性的同意年齢を設定して、差分の少年たちの性的自由を制限することが憲法適合的とも思わないんですけどね。 https://t.co/yU8wweCiNL&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403269951851425799">2021-06-11 17:36:42 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p40");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p40" style="color: red;">&nbsp;40件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（40／66） TW chosakukenho（小倉秀夫） 日時：2021-06-12 10:08:24 +0900 URL： https://twitter.com/chosakukenho/status/1403519522364006401
+<br />> 性交同意年齢の引上げを求めている人たちは、中学生同士でセックスした場合、男の子のみが少年刑務所に送られ、女の子は男の子の両親から慰謝料をせしめる社会を当然の前提としていますよね。女の子の方から誘った場合を含め。 https://t.co/ENyXmgaPbs  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 性交同意年齢の引上げを求めている人たちは、中学生同士でセックスした場合、男の子のみが少年刑務所に送られ、女の子は男の子の両親から慰謝料をせしめる社会を当然の前提としていますよね。女の子の方から誘った場合を含め。 https://t.co/ENyXmgaPbs&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403519522364006401">2021-06-12 10:08:24 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p41");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p41" style="color: red;">&nbsp;41件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（41／66） TW chosakukenho（小倉秀夫） 日時：2021-06-12 11:32:19 +0900 URL： https://twitter.com/chosakukenho/status/1403540637719306240
+<br />> @office50824963 中学生の女の子が同級生の男の子を誘惑してセックスした場合でも、男の子だけが少年刑務所に送られて、女の子は被害者として慰謝料をせしめられるようにするのですね。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> @office50824963 中学生の女の子が同級生の男の子を誘惑してセックスした場合でも、男の子だけが少年刑務所に送られて、女の子は被害者として慰謝料をせしめられるようにするのですね。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403540637719306240">2021-06-12 11:32:19 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p42");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p42" style="color: red;">&nbsp;42件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（42／66） TW chosakukenho（小倉秀夫） 日時：2021-06-12 12:15:50 +0900 URL： https://twitter.com/chosakukenho/status/1403551590787665921
+<br />> 「なぜ子どもの性交同意年齢が13歳なのか?」についていえば、子どもに有害な性交は児童福祉法や青少年保護育成条例で対処しているからです。そして、性交同意年齢未満の人を、暴行脅迫により反抗意思を抑圧されている人とパラレルに位置づけているからです。 https://t.co/tK5dzwkoZa  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 「なぜ子どもの性交同意年齢が13歳なのか?」についていえば、子どもに有害な性交は児童福祉法や青少年保護育成条例で対処しているからです。そして、性交同意年齢未満の人を、暴行脅迫により反抗意思を抑圧されている人とパラレルに位置づけているからです。 https://t.co/tK5dzwkoZa&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403551590787665921">2021-06-12 12:15:50 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p43");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p43" style="color: red;">&nbsp;43件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（43／66） TW chosakukenho（小倉秀夫） 日時：2021-06-12 12:28:19 +0900 URL： https://twitter.com/chosakukenho/status/1403554733458034692
+<br />> 性交同意年齢が引き上げられると、真剣交際だと自認している女の子は、妊娠の兆候があっても、大人たちに相談しにくくなりますね。真剣に付き合っている男の子とが少年刑務所に送られることになるので。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 性交同意年齢が引き上げられると、真剣交際だと自認している女の子は、妊娠の兆候があっても、大人たちに相談しにくくなりますね。真剣に付き合っている男の子とが少年刑務所に送られることになるので。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403554733458034692">2021-06-12 12:28:19 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p44");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p44" style="color: red;">&nbsp;44件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（44／66） TW chosakukenho（小倉秀夫） 日時：2021-06-12 13:28:53 +0900 URL： https://twitter.com/chosakukenho/status/1403569974862508032
+<br />> 性交同意年齢以上の女性でももちろん暴行脅迫等により犯行意思を抑圧されていれば強制性交罪の適用はあるし、相手との関係性によっては監護者性交罪や児童福祉法違反罪が適用されるし、青少年保護育成条例もありますけどね。 https://t.co/r2OJ10hc4Z  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 性交同意年齢以上の女性でももちろん暴行脅迫等により犯行意思を抑圧されていれば強制性交罪の適用はあるし、相手との関係性によっては監護者性交罪や児童福祉法違反罪が適用されるし、青少年保護育成条例もありますけどね。 https://t.co/r2OJ10hc4Z&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403569974862508032">2021-06-12 13:28:53 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p45");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p45" style="color: red;">&nbsp;45件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（45／66） TW chosakukenho（小倉秀夫） 日時：2021-06-13 11:43:58 +0900 URL： https://twitter.com/chosakukenho/status/1403905960234520577
+<br />> 私世代の法律家は「パターナリズムに基づく性的なもの規制うざい」というのが主流なので、「青少年のポルノ視聴規制」とか「青少年のポルノ出演規制」とか違憲の疑いあると思っていますよ。 https://t.co/QG85aVnBGD  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 私世代の法律家は「パターナリズムに基づく性的なもの規制うざい」というのが主流なので、「青少年のポルノ視聴規制」とか「青少年のポルノ出演規制」とか違憲の疑いあると思っていますよ。 https://t.co/QG85aVnBGD&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403905960234520577">2021-06-13 11:43:58 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p46");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p46" style="color: red;">&nbsp;46件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（46／66） TW chosakukenho（小倉秀夫） 日時：2021-06-13 12:47:05 +0900 URL： https://twitter.com/chosakukenho/status/1403921840381194240
+<br />> 中学生同士のセックスだと男だけが少年刑務所に送られ、女の子はむしろ相手の親から慰謝料としてまとまったお金がもらえるとなれば、小遣い稼ぎで同級生を誘惑する女の子も出てくるんじゃないですかね。援助交際より楽ですし。 https://t.co/MTJTdh0F0O  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 中学生同士のセックスだと男だけが少年刑務所に送られ、女の子はむしろ相手の親から慰謝料としてまとまったお金がもらえるとなれば、小遣い稼ぎで同級生を誘惑する女の子も出てくるんじゃないですかね。援助交際より楽ですし。 https://t.co/MTJTdh0F0O&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1403921840381194240">2021-06-13 12:47:05 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p47");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p47" style="color: red;">&nbsp;47件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（47／66） TW chosakukenho（小倉秀夫） 日時：2021-06-14 10:31:03 +0900 URL： https://twitter.com/chosakukenho/status/1404249998317940739
+<br />> 自分の子どもが中学生の時に同級生とsexした場合には20台前半くらいまで少年刑務所に入って欲しいということですね。 https://t.co/RUHsYb1uKK  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 自分の子どもが中学生の時に同級生とsexした場合には20台前半くらいまで少年刑務所に入って欲しいということですね。 https://t.co/RUHsYb1uKK&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404249998317940739">2021-06-14 10:31:03 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p48");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p48" style="color: red;">&nbsp;48件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（48／66） TW chosakukenho（小倉秀夫） 日時：2021-06-14 10:32:58 +0900 URL： https://twitter.com/chosakukenho/status/1404250480725815296
+<br />> 法律で禁止しても抑制にはならず、見つかった場合に男だけが20代前半まで少年刑務所で暮らすようになるだけですが、むしろ不幸になる危険を増大させるだけでは？ https://t.co/f7E8lMVZ7v  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 法律で禁止しても抑制にはならず、見つかった場合に男だけが20代前半まで少年刑務所で暮らすようになるだけですが、むしろ不幸になる危険を増大させるだけでは？ https://t.co/f7E8lMVZ7v&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404250480725815296">2021-06-14 10:32:58 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p49");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p49" style="color: red;">&nbsp;49件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（49／66） TW chosakukenho（小倉秀夫） 日時：2021-06-14 17:11:34 +0900 URL： https://twitter.com/chosakukenho/status/1404350788227510272
+<br />> 刑事責任能力まで引き上げるわけではないので、１４歳同士でセックスした場合、男の子だけが少年刑務所行きです。１４歳から２０代前半まで少年刑務所で過ごした人の所得は通常低くなるので、平均所得の男女間格差の解消には役立ちますが。 https://t.co/FEjR8kKTvR  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 刑事責任能力まで引き上げるわけではないので、１４歳同士でセックスした場合、男の子だけが少年刑務所行きです。１４歳から２０代前半まで少年刑務所で過ごした人の所得は通常低くなるので、平均所得の男女間格差の解消には役立ちますが。 https://t.co/FEjR8kKTvR&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404350788227510272">2021-06-14 17:11:34 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p50");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p50" style="color: red;">&nbsp;50件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（50／66） TW chosakukenho（小倉秀夫） 日時：2021-06-15 00:53:13 +0900 URL： https://twitter.com/chosakukenho/status/1404466968502038530
+<br />> 性交同意年齢を引き上げるだけだと、中学生同士のセックスで男の子だけ少年刑務所送りにできてしまいますね。 https://t.co/Vo7DBwVsVp  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 性交同意年齢を引き上げるだけだと、中学生同士のセックスで男の子だけ少年刑務所送りにできてしまいますね。 https://t.co/Vo7DBwVsVp&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404466968502038530">2021-06-15 00:53:13 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p51");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p51" style="color: red;">&nbsp;51件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（51／66） TW chosakukenho（小倉秀夫） 日時：2021-06-16 00:41:46 +0900 URL： https://twitter.com/chosakukenho/status/1404826474742390784
+<br />> 挿入する側が加害者、される側が被害者としておけば、女の子から誘って、男の子がこらえきれなかった場合でも、男の子だけを少年刑務所に送り込めます。 https://t.co/CWhb0QT3VW  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 挿入する側が加害者、される側が被害者としておけば、女の子から誘って、男の子がこらえきれなかった場合でも、男の子だけを少年刑務所に送り込めます。 https://t.co/CWhb0QT3VW&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404826474742390784">2021-06-16 00:41:46 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p52");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p52" style="color: red;">&nbsp;52件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（52／66） TW chosakukenho（小倉秀夫） 日時：2021-06-16 01:57:54 +0900 URL： https://twitter.com/chosakukenho/status/1404845635019313155
+<br />> 性交同意年齢を引き上げて、真剣に交際している中学生男女か性交に至った場合に男の子を強制性交罪の疑いで逮捕・起訴して１０年程度少年刑務所に送り込むことが中学生の保護に繋がるという考え方が、全く理解できない。少年刑務所に送り込まれる男子はもちろん、女子の方も心に傷を負うと思うけど。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 性交同意年齢を引き上げて、真剣に交際している中学生男女か性交に至った場合に男の子を強制性交罪の疑いで逮捕・起訴して１０年程度少年刑務所に送り込むことが中学生の保護に繋がるという考え方が、全く理解できない。少年刑務所に送り込まれる男子はもちろん、女子の方も心に傷を負うと思うけど。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404845635019313155">2021-06-16 01:57:54 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p53");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p53" style="color: red;">&nbsp;53件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（53／66） TW chosakukenho（小倉秀夫） 日時：2021-06-16 08:23:11 +0900 URL： https://twitter.com/chosakukenho/status/1404942592660295680
+<br />> 性交同意年齢を引き上げると、妊娠したかもと家族や学校の先生に相談した時点で交際相手が少年刑務所送りになる危険が生ずるので、相談しにくくなり、「中絶せずに生む」という選択が増えそうですね。 https://t.co/px162j2h8T  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 性交同意年齢を引き上げると、妊娠したかもと家族や学校の先生に相談した時点で交際相手が少年刑務所送りになる危険が生ずるので、相談しにくくなり、「中絶せずに生む」という選択が増えそうですね。 https://t.co/px162j2h8T&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404942592660295680">2021-06-16 08:23:11 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p54");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p54" style="color: red;">&nbsp;54件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（54／66） TW chosakukenho（小倉秀夫） 日時：2021-06-16 08:45:22 +0900 URL： https://twitter.com/chosakukenho/status/1404948174578454533
+<br />> 成人と中学生との真摯な恋愛感情は現行法上合法であり、それはなぜかと言えば、青少年保護育成条例等ではそこまで禁止することはできなかったからですね。そういう行為を肯定することの何が悪いのですか。 https://t.co/ULUYju4QFT  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 成人と中学生との真摯な恋愛感情は現行法上合法であり、それはなぜかと言えば、青少年保護育成条例等ではそこまで禁止することはできなかったからですね。そういう行為を肯定することの何が悪いのですか。 https://t.co/ULUYju4QFT&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1404948174578454533">2021-06-16 08:45:22 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p55");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p55" style="color: red;">&nbsp;55件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（55／66） TW chosakukenho（小倉秀夫） 日時：2021-06-17 10:12:16 +0900 URL： https://twitter.com/chosakukenho/status/1405332434191667202
+<br />> 左翼的に考えれば、成人であれ少年であれ、一人でも多くの男性を刑務所に送り込めるなら問題なかろうということになりますかね。 https://t.co/n642zUAMR9  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 左翼的に考えれば、成人であれ少年であれ、一人でも多くの男性を刑務所に送り込めるなら問題なかろうということになりますかね。 https://t.co/n642zUAMR9&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1405332434191667202">2021-06-17 10:12:16 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p56");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p56" style="color: red;">&nbsp;56件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（56／66） TW chosakukenho（小倉秀夫） 日時：2021-06-17 10:30:11 +0900 URL： https://twitter.com/chosakukenho/status/1405336940593881088
+<br />> 教育せずに、無知な中学生男女が性交したら男だけ少年刑務所に送ることを狙うのですね。 https://t.co/FnCJVIepGS  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 教育せずに、無知な中学生男女が性交したら男だけ少年刑務所に送ることを狙うのですね。 https://t.co/FnCJVIepGS&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1405336940593881088">2021-06-17 10:30:11 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p57");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p57" style="color: red;">&nbsp;57件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（57／66） TW chosakukenho（小倉秀夫） 日時：2021-06-23 16:45:15 +0900 URL： https://twitter.com/chosakukenho/status/1407605658069782533
+<br />> 中学生との性交が常に性的虐待であって性的搾取であるとするのは、単なる偏見なんじゃないですか。だからこそ、従前、青少年保護育成条例では取り締まれない部分が残っているんじゃないですか？ https://t.co/hNEBP6OqUv  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 中学生との性交が常に性的虐待であって性的搾取であるとするのは、単なる偏見なんじゃないですか。だからこそ、従前、青少年保護育成条例では取り締まれない部分が残っているんじゃないですか？ https://t.co/hNEBP6OqUv&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1407605658069782533">2021-06-23 16:45:15 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p58");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p58" style="color: red;">&nbsp;58件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（58／66） TW chosakukenho（小倉秀夫） 日時：2021-06-27 03:32:26 +0900 URL： https://twitter.com/chosakukenho/status/1408855692102881282
+<br />> 性行為の意味がわからないから同意能力がないとして、暴行脅迫により反抗意思が抑圧されたのと同視するという以上、少年少女同士の場合免責するという考え方と相性が悪いですね。 https://t.co/5wSW8VMSgF  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 性行為の意味がわからないから同意能力がないとして、暴行脅迫により反抗意思が抑圧されたのと同視するという以上、少年少女同士の場合免責するという考え方と相性が悪いですね。 https://t.co/5wSW8VMSgF&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1408855692102881282">2021-06-27 03:32:26 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p59");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p59" style="color: red;">&nbsp;59件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（59／66） TW chosakukenho（小倉秀夫） 日時：2021-07-16 11:21:40 +0900 URL： https://twitter.com/chosakukenho/status/1415859148068069377
+<br />> 真摯な恋愛に基づく年少者との性交という事例は現実にあり、青少年保護育成条例での処罰対象外になっているのですよ。性交同意年齢の引き上げは、これを、暴行脅迫による強制性交として、極めて法定刑の重い罪で処罰しようという話ですね。 https://t.co/n866QfIVOq  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 真摯な恋愛に基づく年少者との性交という事例は現実にあり、青少年保護育成条例での処罰対象外になっているのですよ。性交同意年齢の引き上げは、これを、暴行脅迫による強制性交として、極めて法定刑の重い罪で処罰しようという話ですね。 https://t.co/n866QfIVOq&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1415859148068069377">2021-07-16 11:21:40 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p60");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p60" style="color: red;">&nbsp;60件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（60／66） TW chosakukenho（小倉秀夫） 日時：2021-07-16 23:23:39 +0900 URL： https://twitter.com/chosakukenho/status/1416040837666930690
+<br />> 何で？実際、真摯な交際をしていることが明らかなので、青少年保護育成条例で処罰できない事例はあるんですよ。 https://t.co/vf1mXelTxy  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 何で？実際、真摯な交際をしていることが明らかなので、青少年保護育成条例で処罰できない事例はあるんですよ。 https://t.co/vf1mXelTxy&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1416040837666930690">2021-07-16 23:23:39 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p61");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p61" style="color: red;">&nbsp;61件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（61／66） TW chosakukenho（小倉秀夫） 日時：2021-07-17 00:17:02 +0900 URL： https://twitter.com/chosakukenho/status/1416054273637376001
+<br />> 元の法定刑が重いので、少年法適用されても大して軽くなりませんよ。 https://t.co/0WPHkrqjeM  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 元の法定刑が重いので、少年法適用されても大して軽くなりませんよ。 https://t.co/0WPHkrqjeM&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1416054273637376001">2021-07-17 00:17:02 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p62");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p62" style="color: red;">&nbsp;62件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（62／66） TW chosakukenho（小倉秀夫） 日時：2021-07-17 14:06:22 +0900 URL： https://twitter.com/chosakukenho/status/1416262980514193409
+<br />> 実際にそうであったがために、青少年保護育成条例では処罰できないこともあります。そういうケースについて、暴行脅迫を用いた強制性交と同様の重い刑罰を科すことが妥当なんですかね。 https://t.co/kRdZvKX1eO  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 実際にそうであったがために、青少年保護育成条例では処罰できないこともあります。そういうケースについて、暴行脅迫を用いた強制性交と同様の重い刑罰を科すことが妥当なんですかね。 https://t.co/kRdZvKX1eO&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1416262980514193409">2021-07-17 14:06:22 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p63");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p63" style="color: red;">&nbsp;63件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（63／66） TW chosakukenho（小倉秀夫） 日時：2021-08-09 01:09:43 +0900 URL： https://twitter.com/chosakukenho/status/1424402451860398087
+<br />> 「劣悪な環境に育った人がみなグレるわけではないので、少年非行をいかに防ぐかを考えるにあたって、少年の生育環境等を考慮する必要がない」という方向に、立憲民主党が政権を取ると向かうのですね。 https://t.co/c6bAmqxyAK  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 「劣悪な環境に育った人がみなグレるわけではないので、少年非行をいかに防ぐかを考えるにあたって、少年の生育環境等を考慮する必要がない」という方向に、立憲民主党が政権を取ると向かうのですね。 https://t.co/c6bAmqxyAK&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1424402451860398087">2021-08-09 01:09:43 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p64");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p64" style="color: red;">&nbsp;64件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（64／66） TW chosakukenho（小倉秀夫） 日時：2021-09-16 12:56:55 +0900 URL： https://twitter.com/chosakukenho/status/1438351164857225217
+<br />> @T_IPPONGP 少年よ、太子を抱け。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> @T_IPPONGP 少年よ、太子を抱け。&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1438351164857225217">2021-09-16 12:56:55 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p65");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p65" style="color: red;">&nbsp;65件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（65／66） TW chosakukenho（小倉秀夫） 日時：2021-09-23 02:09:04 +0900 URL： https://twitter.com/chosakukenho/status/1440724842320318478
+<br />> 少年の厳罰化には今でも反対ですよ。それと、「在日コリアンが原告の訴訟の時に、訴状にその名前の読み方を記載させるなどという手間を取らせるべきではない。被告側である日本人の側がその読み方について教えを請うべきだ」とする考えを批判することとは何も矛盾しないし。 https://t.co/6K4BEnjpeH  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 少年の厳罰化には今でも反対ですよ。それと、「在日コリアンが原告の訴訟の時に、訴状にその名前の読み方を記載させるなどという手間を取らせるべきではない。被告側である日本人の側がその読み方について教えを請うべきだ」とする考えを批判することとは何も矛盾しないし。 https://t.co/6K4BEnjpeH&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1440724842320318478">2021-09-23 02:09:04 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p66");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#chosakukenho">chosakukenho（小倉秀夫）のプロフィール情報へのリンク</a></span><span id="p66" style="color: red;">&nbsp;66件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（66／66） TW chosakukenho（小倉秀夫） 日時：2021-09-23 09:33:50 +0900 URL： https://twitter.com/chosakukenho/status/1440836772401799174
+<br />> 左翼の方々の「支持する政策セット」をそのまま支持しているわけではないので、「少年法の厳罰化に反対する人はこういう政策に賛成しているはずだ」という認知は裏切っているかもしれませんね。 https://t.co/tmV6I48Ti3  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 左翼の方々の「支持する政策セット」をそのまま支持しているわけではないので、「少年法の厳罰化に反対する人はこういう政策に賛成しているはずだ」という認知は裏切っているかもしれませんね。 https://t.co/tmV6I48Ti3&nbsp;&nbsp;</p>&mdash; 小倉秀夫（chosakukenho）<a href="https://twitter.com/chosakukenho/status/1440836772401799174">2021-09-23 09:33:50 +0900</a></blockquote></div><br />
+
